@@ -14,5 +14,5 @@ redirect_from:
 * Nanyang Technological University (NTU), Singapore, Research assistant in S-Lab, supervised by Asst.Prof.Lin Guosheng (2023.02-now)
 
 ## Research interests
-Object Detection 
+Untalented in research
 
