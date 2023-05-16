@@ -27,5 +27,8 @@ Won Runner-Up Award in "Global Wheat Challenge 2021". (ICCV 2021 workshop). Chen
 # Service
 CVPR2023, ICCV2023 Reviewer
 
+# Reward
+CVPR2023 Outstanding Reviewer
+
 
 
