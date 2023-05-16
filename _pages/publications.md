@@ -19,16 +19,5 @@ Zhiyu Pan, Zhiguo Cao, **Kewei Wang**, Hao Lu, Weicai Zhong. **Transview: Inside
 
 Chengxin Liu, **Kewei Wang**, Hao Lu, Zhiguo Cao. **Dynamic color transform for wheat head detection**. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, 2021. [**[Paper]**](https://openaccess.thecvf.com/content/ICCV2021W/CVPPA/html/Liu_Dynamic_Color_Transform_for_Wheat_Head_Detection_ICCVW_2021_paper.html)
 
-# Competitions
-Won Runner-Up Award in "Global Wheat Challenge 2021". (ICCV 2021 workshop). Chengxin Liu, **Kewei Wang**, Hao Lu, Zhiguo Cao.
-
-“华为杯”第四届中国研究生人工智能创意大赛 二等奖. 
-
-# Service
-CVPR2023, ICCV2023 Reviewer
-
-# Reward
-CVPR2023 Outstanding Reviewer
-
 
 
