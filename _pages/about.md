@@ -23,4 +23,5 @@ CVPR2023, ICCV2023 Reviewer
 
 # Reward
 CVPR2023 Outstanding Reviewer
+2022 深交所奖学金
 
