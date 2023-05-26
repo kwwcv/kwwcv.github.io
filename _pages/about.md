@@ -14,9 +14,9 @@ redirect_from:
 * Nanyang Technological University (NTU), Singapore, Research assistant in S-Lab, supervised by Asst.Prof.Lin Guosheng (2023.02-now)
 
 # Competitions
-Won Runner-Up Award in "Global Wheat Challenge 2021". (ICCV 2021 workshop). Chengxin Liu, **Kewei Wang**, Hao Lu, Zhiguo Cao.
+2021 Won Runner-Up Award in "Global Wheat Challenge 2021". (ICCV 2021 workshop) (1000 USD bonus)
 
-“华为杯”第四届中国研究生人工智能创意大赛 二等奖. 
+2022 “华为杯”第四届中国研究生人工智能创意大赛 全国二等奖 (10000 RMB bonus)
 
 # Service
 CVPR2023, ICCV2023 Reviewer
