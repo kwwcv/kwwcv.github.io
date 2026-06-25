@@ -45,21 +45,21 @@
           </tbody></table>
 
           <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-            <tr onmouseout="portrait_stop()" onmouseover="portrait_start()">
+            <tr onmouseout="ntu_stop()" onmouseover="ntu_start()">
               <td style="padding:16px;width:20%;vertical-align:middle">
                 <div class="one">
-                  <div class="two" id='portrait_image'><img src='images/portrait_after.jpg'></div>
-                  <img src='images/wangkw/ntu.png'>
+                  <div class="two" id='ntu_image'><img src='images/portrait_after.jpg' style="width:100%;max-width:100%;"></div>
+                  <img src='images/wangkw/ntu.png' style="width:100%;max-width:100%;">
                 </div>
                 <script type="text/javascript">
-                  function portrait_start() {
-                    document.getElementById('portrait_image').style.opacity = "1";
+                  function ntu_start() {
+                    document.getElementById('ntu_image').style.opacity = "1";
                   }
 
-                  function portrait_stop() {
-                    document.getElementById('portrait_image').style.opacity = "0";
+                  function ntu_stop() {
+                    document.getElementById('ntu_image').style.opacity = "0";
                   }
-                  portrait_stop()
+                  ntu_stop()
                 </script>
               </td>
               <td style="padding:8px;width:80%;vertical-align:middle">
